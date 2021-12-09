@@ -1,0 +1,126 @@
+/* Price section */
+.single-product-page-mobile-price-section {
+    background-color: #ffffff;
+    height: 45px;
+    margin-top: -6px;
+}
+.single-product-price-xtt-left-sec p {
+    color: #333;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 32px;
+    font-family: 'Montserrat', sans-serif;
+}
+.single-product-price-xtt-left-sec p del {
+    color: #a5a5a5;
+}
+.single-product-price-xtt-left-sec p span {
+    font-weight: 600;
+    font-size: 17px;
+    color: #F34425;
+}
+.single-product-price-xtt-left-sec p del span.old-price-xxc {
+    color: #989898;
+    font-size: 11px;
+    font-weight: 500;
+    margin-left: 4px;
+}
+.single-product-price-xtt-left-sec {
+    margin-top: 10px;
+}
+.single-product-price-xtt-right-sec-offer {
+    margin-top: 12px;
+}
+.single-product-price-xtt-right-sec-offer p {
+    background: #FF6347;
+    width: 55px;
+    color: #fff;
+    font-weight: 600;
+    padding: 1px;
+    text-align: center;
+    font-size: 12px;
+    height: 22px;
+    border-radius: 10px;
+    line-height: 18px;
+}
+/* Price section */
+
+/* Product Details Text */
+.single-product-page-m-product-details-text {
+    background-color: #fff;
+}
+.single-product-page-m-product-det-text-box p {
+    color: #5a5a5a;
+    font-size: 12px;
+}
+/* Product Details Text */
+
+/* Product Details Description Start */
+.single-product-page-m-product-desc {
+    background-color: #fff;
+    margin-top: 12px;
+}
+.single-product-page-m-product-desc-text p {
+    color: #5a5a5a;
+    font-size: 13px;
+    margin-top: 8px;
+}
+/* Product Details Description End */
+
+
+/* Buy now and add to cart button  */
+.buy-now-and-add-to-cart-page-mobile-v-single-prodcpg {
+    background-color: #ffffff;
+    width: 100%;
+    height: 60px;
+    border-top: 1px solid #d6d6d6;
+}
+.buy-now-and-add-to-cart-page-mobile-v-single-prodcpg {
+    position: fixed;
+    bottom: 0px;
+    z-index: 99999;
+}
+.row.buy-now-and-add-to-cart-page-mobile-extra-ppxdc .col-10 {
+    margin: 0px;
+    padding: 0px 0px 0px 6px;
+}
+
+.buy-now-and-add-to-cart-page-mobile-buy-now-bbtn {
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FF6347;
+    width: 100%;
+    height: 42px;
+    margin-top: 9px;
+    box-shadow: 0 4px 12px rgb(0 25 0 / 8%);
+}
+.buy-now-and-add-to-cart-page-mobile-buy-now-bbtn a {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight: 600; 
+    font-size: 16px;
+    line-height: 41px;
+}
+.buy-now-and-add-to-cart-page-mobile-cart-icon-bbtn img {
+    width: 96%;
+    height: 58px;
+    margin-top: 5px;
+    position: relative;
+}
+.buy-now-and-add-to-cart-page-mobile-cart-icon-bbtn p {
+    position: absolute;
+    top: 9px;
+    right: 7px;
+    background: #FF6347;
+    border-radius: 100%;
+    height: 20px;
+    width: 20px;
+    color: #fff;
+    font-size: 11px;
+    text-align: center;
+    line-height: 16px;
+    font-weight: 500;
+    border: 2px solid #f5f5f5;
+    box-shadow: 0 0px 1px rgba(0,0,0,.3);
+}
+/* Buy now and add to cart button  */

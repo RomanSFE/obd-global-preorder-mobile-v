@@ -1,0 +1,264 @@
+.my-account-page-may-order-main-sectionx .container {
+    width: 100%;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+/* account profile image */
+.preorder-page-mv-profile-info-section-immg img {
+    width: 68px;
+    height: 68px;
+    margin-top: 15px;
+    border-radius: 100%;
+}
+.preorder-page-mv-profile-info-section {
+    background-image: linear-gradient(-70deg, #F88522 0%, #F8B21F 100%);
+    height: 125px;
+}
+.preorder-page-mv-profile-info-section-ttxt h4 {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #fff;
+}
+.preorder-page-mv-profile-info-section-ttxt p {
+    color: #f1f1f1;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: -2px;
+}
+.preorder-page-mv-profile-info-section-ttxt {
+    margin-top: 31px;
+    margin-left: -10px;
+}
+/* account profile image */
+
+/* Account and wishlist all link sec */
+.myacnt-preorder-nav-link-sections-mv-main {
+    margin-top: 15px;
+    background-color: #fff;
+}
+.myacnt-preorder-nav-link-mvv-single {
+    position: relative;
+    border-bottom: 1px solid #dedede;
+    margin-top: 16px;
+}
+.myacnt-preorder-nav-link-mvv-single span.account-mv-an-rg-icon {
+    position: absolute;
+    right: 0px;
+    top: 3px;
+    font-size: 17px;
+    color: #333;
+}
+span.acc-wisshlst-icn-cls img {
+    width: 20px;
+}
+span.my-accny-logout-bbsf img {
+    width: 20px;
+}
+
+.myacnt-preorder-nav-link-mvv-single p {
+    margin-left: 30px;
+    position: relative;
+    color: #333;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+}
+.myacnt-preorder-nav-link-mvv-single span.acc-wisshlst-icn-cls {
+    position: absolute;
+    font-size: 20px;
+    color: #a2a2a2;
+    top: -6px;
+}
+/* Account and wishlist all link sec */
+
+/* /* Profile All Order Main Start */
+.obd-preorder-profile-accnt-allz-main-bbox {
+    margin-top: 12px;
+}
+.obd-preorder-profile-accnt-allz-content-boxx {
+    box-shadow: 0 0px 5px rgba(221, 225, 238,.9);
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+.row.obd-preorder-profile-accnt-allz-ex-pdz .col-md-7 {
+    padding-right: 0px;
+}
+.obd-preorder-profile-accnt-allz-content-hed h4 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #5D616D;
+    margin-top: 7px;
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 10px;
+}
+
+/* Table Box start */
+.obd-preorder-profile-accnt-allz-wv-table-box {
+    margin-top: 12px;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box table thead {
+    border: none !important;
+    background-color: #FAFAFA;
+    color: #5D616D;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box table thead tr {
+    border: none;
+    border-top-right-radius: 8px;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box table thead tr th {
+    border: none;
+    font-weight: 500;
+    font-size: 12px;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box table tbody tr td {
+    color: #5D616D;
+    font-weight: 400;
+    font-size: 11px;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box table {
+    border-top-right-radius: 8px;
+    border: none;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box table tbody tr td {
+    border: none;
+    border-bottom: 1px solid #ececec;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box table tbody tr:hover {
+    background-color: #f7f7f7;
+    transition: .2s;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box tbody {
+    border-top: none !important;
+}
+.obd-preorder-profile-accnt-allz-wv-table-box tbody tr {
+    border: none;
+}
+.obd-preorder-profile-accnt-allz-tbl-ordr-main-box {
+    padding: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.row.obd-preorder-profile-accnt-allz-ttbl-eex-ppd .col-3 {
+    padding: 0px;
+    padding-left: 2px;
+}
+.obd-preorder-profile-accnt-snglz-img-prd img {
+    border-radius: 10px;
+    border: 1px solid #f1f1f1;
+    width: 100%;
+}
+.obd-preorder-profile-accnt-snglz-prd-prc h4 {
+    font-size: 12px;
+    color: #FF6347;
+    font-weight: 500;
+}
+.obd-preorder-profile-accnt-snglz-img-prd-txxt a {
+    font-size: 11px;
+    color: #444750;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+.obd-preorder-profile-accnt-snglz-img-prd-txxt a:hover {
+    color: #5074df;
+    transition: .3s;
+}
+.obd-preorder-profile-accnt-allz-tbl-ordr-main-box {
+    margin-top: -20px;
+}
+
+/* Whene Table Empty */
+.obd-preorder-profile-accnt-content-o-empty-img img {
+    width: 35%;
+    margin-top: 11%;
+    margin-left: -12px;
+}
+.obd-preorder-profile-accnt-content-o-empty-img-txt p {
+    font-size: 14px;
+    color: #FFCAC0;
+    margin-top: 8px;
+}
+/* Whene Table Empty */
+
+/* Table Box End */
+
+/* Pagination Start */
+.row.obd-preorder-mv-pagination-section {
+    margin-top: 17px;
+    margin-bottom: 2px;
+}
+.obd-preorder-mv-pagination-section-box {
+    background-color: #fff;
+    padding: 7px;
+    height: 45px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+    margin-right: -12px;
+    margin-top: -6px;
+}
+.obd-preorder-mv-pagination-section-content ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px 4px 1px 0px;
+}
+.obd-preorder-mv-pagination-section-content ul li {
+    display: inline-block;
+    margin-right: 4px;
+    background-color: #F4F4F5;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    border-color: #B4BACB;
+    line-height: 32px;
+}
+.obd-preorder-mv-pagination-section-content ul li a {
+    color: #5D616D;
+    text-decoration: none;
+    font-size: 12px;
+}
+.obd-preorder-mv-pagination-section-content ul li:hover {
+    background-color: #FF6347;
+    transition: .2s;
+}
+.obd-preorder-mv-pagination-section-content ul li:hover a {
+    color: #fff;
+    display: block;
+    transition: .2s;
+}
+.obd-preorder-mv-pagination-section-content ul li a span {
+    font-size: 12px;
+    margin-left: 2px;
+    margin-right: 2px;
+    color: #707070;
+}
+li.obd-preorder-mv-pagntn-nxt-txt-mv {
+    background-color: #EFF1F7 !important;
+}
+li.obd-preorder-mv-pagntn-nxt-txt-mv a {
+    color: #fff !important;
+}
+li.obd-preorder-mv-pagntn-prev-txt-mv:hover {
+    background-color: #dcdcdc !important;
+    transition: .2s;
+}
+li.obd-preorder-mv-pagntn-nxt-txt-mv:hover {
+    background-color: #dcdcdc !important;
+    transition: .2s;
+}
+/* Pagination End */
+
+/* Just For You */
+.myy-account-just-for-youu-secctbn {
+    margin-top: 25px;
+}
+/* Just For You */

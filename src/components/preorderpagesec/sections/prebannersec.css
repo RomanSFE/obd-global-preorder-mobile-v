@@ -1,0 +1,19 @@
+.pre-order-banner-top-box .container {
+    width: 100%;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+.pre-order-banner-top-box {
+    margin-top: 72px;
+}
+.pre-order-banner-top-box-img img {
+    width: 100%;
+    height: 145px;
+    border-radius: 6px;
+}
+.pre-order-banner-top-box-img {
+    margin-bottom: 8px;
+}

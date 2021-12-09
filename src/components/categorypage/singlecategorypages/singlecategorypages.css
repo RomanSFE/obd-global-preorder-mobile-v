@@ -1,0 +1,93 @@
+.pre-order-all-category-pages-main-wrp .container {
+    width: 100%;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+.pre-order-all-category-pages-main-wrp {
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+.pre-order-all-category-pg-secton-bxz {
+    border-radius: 7px;
+    padding: 0px;
+}
+.pre-order-all-category-pg-hd-txt p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    margin-left: 4px;
+}
+
+.row.preorder-all-category-pg-ex-padd {
+    margin: 0px;
+    margin-bottom: 2px;
+}
+
+.row.preorder-all-category-pg-ex-padd .col-6 {
+    padding: 3px;
+}
+.preorder-all-category-pg-sngl-prodct-img img {
+    width: 100%;
+    height: 160px;
+    border-radius: 8px;
+    padding: 4px;
+}
+.preorder-all-category-pg-sngl-prodct {
+    background-color: #ffffff;
+    border-radius: 5px;
+    height: 100%;
+}
+.preorder-all-category-pg-sngl-prodct-ttxt p {
+    font-size: 10px;
+    color: #252525;
+    line-height: 14px;
+    margin: 0px;
+    margin-left: 2px;
+}
+.preorder-all-category-pg-sngl-prodct-ttxt h4 {
+    color: #F34425;
+    font-size: 11px;
+    font-weight: 600;
+    margin-top: -13px;
+}
+.pre-order-all-category-pg-hd-txt {
+    margin-bottom: -10px;
+}
+.preorder-all-category-pg-sngl-prodct-ttxt {
+    padding: 2px;
+}
+
+.preorder-all-category-pg-sngl-prodct-price-ttxt {
+    padding-bottom: 3px;
+}
+.preorder-all-category-pg-sngl-prodct-price-ttxt h4 {
+    font-size: 10px;
+    color: #FF6347;
+    font-weight: 600;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+
+/* View More Button */
+.obd-global-preorder-view-m-ct-lnk button {
+    background-color: tomato;
+    border: none;
+    border-radius: 35px;
+    padding: 4px 18px;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 500;
+    outline: none;
+}
+.obd-global-preorder-view-m-ct-lnk {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.obd-global-preorder-view-m-ct-lnk button:hover {
+    background-color: #fe4625;
+    transition: .3s;
+}
+/* View More Button */

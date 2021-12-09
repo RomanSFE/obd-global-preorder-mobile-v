@@ -1,0 +1,426 @@
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border: none;
+    border-bottom: 5px solid #ff7474;
+}
+.invoice-all-contt-mv-main-content-bbox .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    margin-left: 5%;
+    color: #737373;
+}
+.nav-tabs {
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #000;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border-bottom: none;
+}
+.tab-content {
+    margin-top: 25px;
+}
+
+.invoice-all-contt-mv-main-content-bbox nav.nav.nav-tabs {
+    background: #fff;
+    width: 104%;
+    padding-top: 6px;
+    margin-left: -7px;
+}
+
+.invoice-all-contt-mv-main-content-bbox .tab-content {
+    margin-top: 8px;
+    width: 100%;
+    background: #fff;
+}
+.invoice-all-contt-mv-main-content-bbox .nav-tabs {
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #000;
+    margin-top: 10px;
+    text-transform: uppercase;
+    padding-bottom: 7px;
+}
+.invoice-all-contt-mv-main-content-bbox .nav-tabs .nav-link.active {
+    background-color: #F88422;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+    width: 54%;
+    text-align: center;
+    /* margin-left: 8px; */
+}
+
+/* Tab Content start */
+.invoice-page-main-section-top-color-section {
+    margin-top: 48px;
+}
+/* download print */
+.invoice-download-andprint-secp-mv ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.invoice-download-andprint-secp-mv ul li {
+    display: inline-block;
+}
+.invoice-download-andprint-secp-mv ul li button {
+    border: none;
+    background: none;
+    outline: none;
+}
+.invoice-download-andprint-secp-mv ul li button i.fas {
+    font-size: 21px;
+    color: #989898;
+}
+.invoice-download-andprint-secp-mv {
+    position: absolute;
+    right: 0px;
+    top: 15px;
+}
+/* download print */
+
+.invoice-page-mobile-vv-main-section .container {
+    width: 100%;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+.invoice-page-all-details-ittn-sec-bx-mv {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f88422;
+}
+.invoice-page-all-details-ittn-sec-bx-mv .container {
+    width: 100%;
+    padding-right: 8px;
+    padding-left: 8px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+
+.invoice-download-andprint-secp-mv ul li button img {
+    width: 17px;
+}
+/* name and inv no */
+.invoice-detauls-mv-namm-sec h4 {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Shadows Into Light Two', cursive;
+    color: #000;
+    padding-top: 10px;
+}
+.invoice-detauls-mv-namm-sec {
+    position: relative;
+    border-bottom: 1px solid #d6d6d6;
+}
+span.invoice-dettls-nam-ino-no {
+    position: absolute;
+    right: 0px;
+    top: 9px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #444;
+}
+.invoice-detauls-mv-namm-sec span p {
+    font-size: 11px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-top: -4px;
+    color: #333;
+    margin-bottom: 10px;
+}
+/* name and inv no */
+
+/* Inv Address Details */
+.invvoice-details-addrexs-sec-mvv-lft h4 {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #191919;
+}
+.invvoice-details-addrexs-sec-mvv-lft p {
+    font-size: 11px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    line-height: 19px;
+    color: #333;
+}
+.invvoice-details-addrexs-sec-mvv-lft p span {
+    font-weight: 500;
+}
+.invvoice-details-addrexs-sec-mvv-box {
+    margin-top: 10px;
+}
+span.invvice-address-dts-pay-metdx {
+    background-color: #F88422;
+    color: #fff;
+    padding: 2px 3px 2px 3px;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 500;
+}
+.invvoice-details-addrexs-sec-mvv-box {
+    border-bottom: 1px solid #d6d6d6;
+    padding-bottom: 1px;
+}
+
+.invvoice-details-addrexs-sec-mvv-right {
+    margin-left: -5px;
+}
+.invvoice-details-addrexs-sec-mvv-right h4 {
+    font-size: 13px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+.invvoice-details-addrexs-sec-mvv-right p {
+    font-size: 11px;
+    font-family: 'Montserrat', sans-serif;
+}
+.invvoice-details-addrexs-sec-mvv-right h5 {
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    color: #7b7b7b;
+    margin-top: -5px;
+    margin-bottom: 8px;
+}
+/* Inv Address Details */
+
+/* Product List Section */
+.invoice-details-text-product-lst-sec-mn-mv-bbox {
+    margin-top: 14px;
+}
+.invoice-details-text-product-lst-sec-mn-mv-bbox {
+    border-bottom: 1px solid #d6d6d6;
+    padding-bottom: 8px;
+}
+.row.invoice-details-text-product-lst-ex-pdd {
+    margin-top: 7px;
+}
+.invoice-details-text-product-lst-img img {
+    width: 85px;
+    height: 80px;
+    border-radius: 5px;
+}
+.invoice-mv-sec-color-sz {
+    margin-top: -9px;
+}
+.invoice-mv-sec-color-sz ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.invoice-mv-sec-color-sz ul li {
+    display: inline-block;
+    margin-right: 12px;
+    border-right: 1px solid #848383;
+    height: 13px;
+    padding-right: 10px;
+    line-height: 11px;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+}
+.invoice-mv-sec-color-sz ul li:last-child {
+    border-right: none;
+}
+.invoice-details-text-product-lst-ttxt-ssc h4 span {
+    margin-left: 7px;
+    color: #d46606;
+    font-size: 12px;
+}
+.invoice-detauls-product-list-hed-txt-mv h4 {
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 3px;
+}
+.invoice-mv-sec-color-sz ul li p {
+    color: #5d5d5d;
+    font-weight: 500;
+    font-size: 10.5px;
+}
+.invoice-details-text-product-lst-ttxt-ssc p {
+    font-size: 11.5px;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+}
+.invoice-details-text-product-lst-ttxt-ssc h4 {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    color: #f88922;
+    margin-top: -11px;
+}
+.row.invoice-details-text-product-lst-ex-pdd .col-9 {
+    padding-left: 24px;
+}
+.invoice-total-text-total-item-pricee h4 {
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 2px;
+    color: #333;
+}
+.invoice-total-text-total-item-pricee h4 strong {
+    font-size: 16px;
+    font-weight: 600;
+}
+.invoice-total-text-total-item-pricee {
+    margin-top: 5px;
+}
+/* Product List Section */
+
+/* Delivery Information section */
+.invoice-page-delivery-info-mv-sec {
+    border-bottom: 1px solid #d6d6d6;
+    padding-bottom: 7px;
+}
+.invoice-deliverry-hedd-txt-mv {
+    margin-top: 10px;
+    border-bottom: 1px solid #d6d6d6;
+}
+.invoice-deliverry-hedd-txt-mv h4 {
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+}
+.invoice-deliverry-indvsl-ittm-sec p {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #333;
+}
+.invoice-deliverry-indvsl-ittm-sec {
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: -14px;
+}
+span.invoice-delivery-ind-itm-rt-sec {
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    font-weight: 600;
+}
+
+/* Delivery Information section */
+
+/* Order Amount Details */
+.invoice-page-order-inffxo-info-mv-sec {
+    margin-top: 10px;
+    border-bottom: 1px solid #d6d6d6;
+}
+.invoice-page-order-inffxo-info-mv-sec h4 {
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+}
+.invoice-order-amnt-hedd-txt-mv p {
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #333;
+}
+.invoice-order-amnt-hedd-txt-mv {
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: -14px;
+}
+span.invoice-order-amntt-ind-itm-rt-sec {
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    font-weight: 600;
+}
+/* Order Amount Details */
+
+/* Invoice Total Text */
+.invoice-total-text-last-total-item-pricee h4 {
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 2px;
+    color: #333;
+}
+.invoice-total-text-last-total-item-pricee h4 strong {
+    font-size: 16px;
+    font-weight: 700;
+}
+.invoice-total-text-last-total-item-pricee {
+    margin-top: 5px;
+}
+/* Invoice Total Text */
+
+
+/* Order History Page */
+.invoice-page-all-coont-history-mv-hedd {
+    border-bottom: 1px solid #d6d6d6;
+}
+.invoice-page-all-coont-history-mv-sec .container {
+    width: 100%;
+    padding-right: 8px;
+    padding-left: 8px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+.invoice-page-all-coont-history-mv-sec {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f88422;
+}
+.invoice-page-all-coont-history-mv-hedd h4 {
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    padding-top: 14px;
+    padding-bottom: 7px;
+}
+
+/* Timeline */
+.vertical-timeline-element-content.bounce-in {
+    padding: 6px !important;
+}
+.invoice-timeline-mv-content-text h4 {
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: -7px;
+    padding-top: 8px;
+}
+.invoice-timeline-mv-content-text p {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+.invoice-timeline-mv-content-text p span {
+    font-weight: 600;
+}
+.invoice-timeline-mv-content-text {
+    margin-left: 7px;
+}
+.invoice-timeline-mv-content-text p {
+    margin-bottom: -13px !important;
+}
+/* Timeline */
+/* History Page */
+
+/* Tab Content start */

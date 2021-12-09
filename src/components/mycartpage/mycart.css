@@ -1,0 +1,460 @@
+/* Left Account Field Form Start */
+/* Left Form Start */
+.obd-p-order-cart-user--addr-input-field input {
+    border: none;
+    background-color: #F4F4F5;
+    border-radius: 6px;
+    width: 97%;
+    height: 32px;
+    outline: none;
+    padding: 10px;
+    font-size: 11px;
+    color: #333;
+}
+.obd-p-order-cart-user--addr-input-field {
+    margin-bottom: 8px;
+}
+.obd-p-order-cart-user--addr-input-field input::placeholder {
+    color: #b3b3b3;
+}
+.obd-p-order-cart-user--addr-input-field textarea::placeholder {
+    color: #b3b3b3;
+}
+.obd-p-order-cart-user--addr-input-field label {
+    display: block;
+    font-size: 12px;
+    color: #838383;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.obd-p-order-cart-user--addr-input-field textarea {
+    border: 1px solid #f1f1f1;
+    background-color: #f9f9f9;
+    border-radius: 6px;
+    width: 97%;
+    height: 50px;
+    outline: none;
+    padding: 10px;
+    font-size: 11px;
+    color: #333;
+}
+.obd-p-order-cart-user--addr-input-field select {
+    border: 1px solid #f1f1f1;
+    background-color: #f9f9f9;
+    border-radius: 6px;
+    width: 97%;
+    height: 34px;
+    outline: none;
+    padding-left: 10px;
+    font-size: 11px;
+    color: #333;
+}
+.obd-pre-order-mcart-m-user-info-main-box {
+    padding: 5px;
+}
+.obd-pre-order-mcart-m-user-info-hed-txt {
+    margin-bottom: 15px;
+}
+.obd-pre-order-mcart-m-user-info-hed-txt h3 {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    margin-top: 5px;
+}
+/* Left Form End */
+/* Left Account Field Form End */
+
+.product-page-full-wrp-collzr-sec {
+    background-color: #fff;
+    height: 100%;
+    padding-top: 1px;
+}
+/* Main Wrap CSS End */
+
+/* Address Part Start */
+.obd-user-cart-address-main-sec {
+    margin-top: 55px;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+/* Address Part End */
+
+/* Order Summery Head Text */
+.order-summary-hedd-ttxt {
+    margin-top: 12px;
+    border-bottom: 1px solid #d0d0d0;
+    margin-bottom: 8px;
+}
+.order-summary-hedd-ttxt h3 {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+}
+/* Order Summery Head Text */
+
+.mycart-all-item-check-mobile-viexw-main-section {
+    margin-top: 40px;
+}
+.my-cart-product-vvx-and-text-section span {
+    display: inline-block;
+    margin-top: -73px;
+    float: right;
+}
+.hgffhhfg img {
+    width: 100%;
+    height: 74px;
+}
+
+.mycart-all-item-check-mobile-viexw-main-section {
+    background-color: #fff;
+    height: 100%;
+    padding-bottom: 10px;
+}
+
+.row.my-cart-select-all-ex-ppdnfg .col-9 {
+    margin: 0px;
+    padding-right: 10px;
+}
+.row.my-cart-select-all-ex-ppdnfg .col-3 {
+    padding-right: 0px;
+    padding-left: 26px;
+}
+.my-cart-product-vvx-and-text-section a {
+    float: right;
+    margin-top: -38px;
+}
+.my-cart-product-vvx-and-text-section h4 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #F34425;
+    margin-top: -4px;
+}
+.my-cart-product-vvx-and-text-section h5 {
+    font-size: 10.5px;
+    color: #adadad;
+    margin-top: -13px;
+}
+.my-cart-product-vvx-and-text-section p {
+    font-size: 11.5px;
+    color: #333;
+    margin-top: 4px;
+}
+.row.my-wishlisst-ex-ppdnfg {
+    margin-top: 11px;
+    border-bottom: 1px solid #c1c1c1;
+    padding-bottom: 4px;
+}
+.my-cart-select-vvb-immxg img {
+    width: 100%;
+    height: 62px;
+    margin-left: -10px;
+    border-radius: 6px;
+}
+.row.my-cart-select-all-ex-ppdnfg {
+    border-bottom: 1px solid #d8d8d8;
+    padding-bottom: 9px;
+    margin-top: 10px;
+}
+span.my-cart-select-all-x-txtt {
+    font-size: 16px;
+    font-weight: 600;
+    color: #5d5d5d;
+    margin-left: 9px;
+}
+.rs-checkbox-checker label {
+    margin-top: 14px;
+    margin-bottom: 0px;
+}
+
+.my-cart-product-vvx-and-text-section {
+    margin-left: -10px;
+}
+
+/* Delete Icon  */
+.my-cartproduct-vvx-delete-iixcn img {
+    width: 16px;
+    position: absolute;
+    right: 1px;
+    top: 0px;
+}
+.my-cart-product-vvx-and-text-section {
+    position: relative;
+}
+/* Delete Icon  */
+
+
+/* Incress Decress */
+.my-cart-dfc-single-products-options-section-quantity-bbox ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.my-cart-dfc-single-products-options-section-quantity-bbox ul li {
+    display: inline-block;
+    margin-right: 0px;
+    text-align: center;
+}
+.my-cart-dfc-single-products-options-section-quantity-bbox {
+    margin-top: -35px;
+    float: right;
+}
+
+.my-cart-dfc-single-products-options-section-quantity-bbox ul li button {
+    border: 1px solid #dcdcdc;
+    padding: 0px 7px 1px 7px;
+    background-color: #ffffff;
+    font-size: 12px;
+    border-radius: 15px 0px 0px 15px;
+    margin-right: -1px;
+    outline: none;
+}
+.my-cart-dfc-single-products-options-section-quantity-bbox ul li.plusxsxts-bbtn button {
+    border: 1px solid #dcdcdc;
+    padding: 0px 6px 1px 4px;
+    background-color: #ffffff;
+    font-size: 12px;
+    border-radius: 0px 15px 15px 0px;
+    margin-left: -3px;
+    outline: none;
+}
+.my-cart-dfc-single-products-options-section-quantity-bbox ul li h2 {
+    font-size: 17px;
+    margin-top: 4px;
+    margin-bottom: 6px;
+    padding: 0px 17px 0px 17px;
+    font-weight: 500;
+}
+.my-cart-dfc-single-products-options-section-quantity-bbox ul li.incrementhhtwo-ttxt h2 {
+    font-size: 12px;
+    margin-top: 4px;
+    margin-bottom: 6px;
+    padding: 2px 11px 3px 8px;
+    font-weight: 400;
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+}
+/* Incress Decress */
+
+/* Item Total Box Start */
+.row.product-summv-total-ex-pzdd {
+    background-color: #f3f3f3;
+    height: 45px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.product-summary-item-total-price-box p {
+    color: #101010;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 45px;
+}
+.product-summary-item-total-price-box p strong {
+    color: #ff6347;
+    font-weight: 700;
+    font-size: 16px;
+}
+/* Item Total Box End */
+
+/* Item Delevery Text */
+.product-summary-item-total-price-del-charge {
+    margin-top: 10px;
+    border-bottom: 1px solid #d9d6d6;
+    padding-bottom: 3px;
+}
+.product-summary-item-total-del-chrrg-bxbx-ttxt {
+    margin-left: -15px;
+}
+.product-summary-item-total-del-chrrg-bxbx {
+    margin-top: 10px;
+}
+.product-summary-item-total-del-chrrg-bxbx-ttxt p {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+}
+.product-summary-item-total-del-chrrg-bxbx-ttxt h6 {
+    color: #848484;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: -14px;
+}
+.product-summary-item-total-del-chrrg-bxbx-ttxt-quntty p {
+    font-size: 16px;
+    font-weight: 600;
+    color: #ff6347;
+    margin-top: 10px;
+}
+/* Item Delevery Text */
+
+/* Total price section */
+.my-cart-total-price-buttxcn-section-bbox a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.my-cart-total-price-buttxcn-section-bbox {
+    background-color: #FF6347;
+    border-radius: 10px;
+    font-weight: 600;
+    width: 98%;
+    height: 38px;
+    text-align: center;
+    line-height: 36px;
+    margin-top: 5px;
+}
+.my-cart-total-price-main-section {
+    background-color: #f0f0f0;
+    height: 50px;
+    position: fixed;
+    z-index: 999;
+    bottom: 56px;
+    width: 100%;
+    border-top: 1px solid #e2e2e2;
+}
+.my-cart-total-price-main-section {
+    background-color: #f2f2f2;
+    height: 50px;
+    position: fixed;
+    z-index: 999;
+    bottom: 53px;
+    width: 100%;
+    border-top: 1px solid #e2e2e2;
+}
+.my-cart-total-price-section-bbox p {
+    color: #0c0c0c;
+    font-weight: 600;
+    font-size: 16px;
+}
+.my-cart-total-price-section-bbox {
+    margin-top: 14px;
+}
+.my-cart-total-price-section-bbox p strong {
+    color: #F34425;
+    font-weight: 600;
+    font-size: 17px;
+    margin-left: 10px;
+}
+/* Total price section */
+
+/* New Css */
+.mycart-all-item-check-mobile-viexw-main-section.only-for-in-stockkxz {
+    background-color: #fff;
+    height: 100%;
+    padding-bottom: 120px;
+    margin-top: -40px;
+    padding-top: 48px;
+}
+.bobd-cart-page-main-content-regular-order-ssc-cart {
+    background-color: #f1f1f1;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: -7px;
+    width: 108.7%;
+    margin-left: -15px;
+}
+.bobd-cart-page-main-content-regular-order-ssc-cart h3 {
+    font-size: 17px;
+    font-weight: 600;
+    padding: 5px;
+    line-height: 42px;
+    color: #696969;
+    margin-left: 7px;
+}
+.bobd-cart-page-main-content-regular-order-ssc-cart h3 span {
+    margin-right: 3px;
+    font-size: 18px;
+    color: #7b7b7b;
+}
+.instock-cart-page-blar-section-mmoversn {
+    opacity: .4;
+    margin-top: 32px;
+}
+/* New Css */
+
+/* Order Total */
+.order-summary-order-total-section-main-mobile {
+    margin-top: 10px;
+}
+.oreder-total-ffhednf-ttxt h4 {
+    font-size: 17px;
+    font-weight: 600;
+    color: #151515;
+}
+.oreder-total-ffhednf-ttxt-single-productt-ittm ul li {
+    position: relative;
+    display: block;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 3px;
+    color: #333;
+}
+.oreder-total-ffhednf-ttxt-single-productt-ittm ul li span.hdjhdhfhj {
+    position: absolute;
+    right: 5px;
+    font-weight: 500;
+    color: #333;
+}
+.oreder-total-ffhednf-ttxt-single-productt-ittm ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.oreder-total-ffhednf-ttxt-single-productt-ittm {
+    border-bottom: 1px solid #d8d8d8;
+    padding-bottom: 3px;
+}
+
+.product-summary-item-total-payable-amt p {
+    color: #101010;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 45px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+.product-summary-item-total-payable-amt p strong {
+    color: #ff6347;
+    font-weight: 700;
+    font-size: 16px;
+}
+.product-summary-item-total-payable-amt {
+    padding-bottom: 55px;
+}
+/* Order Total */
+
+/* Confirm Total */
+.product-summary-total-confirm-section {
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    background: #efefef;
+    height: 50px;
+    border-top: 1px solid #b9b9b9;
+}
+.product-summary-total-confirm-section-total-ttxt p {
+    font-size: 15px;
+    color: #333;
+    font-weight: 500;
+    line-height: 50px;
+}
+.product-summary-total-confirm-section-total-ttxt p span {
+    font-size: 16px;
+    font-weight: 600;
+    color: #ff6347
+}
+.product-summary-total-confirm-section-con-ffn-btn {
+    background-color: #ff6347;
+    width: 100%;
+    height: 35px;
+    border-radius: 50px;
+    margin-top: 7px;
+    text-align: center;
+}
+.product-summary-total-confirm-section-con-ffn-btn a {
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 36px;
+    text-transform: uppercase;
+}
+/* Confirm Total */
