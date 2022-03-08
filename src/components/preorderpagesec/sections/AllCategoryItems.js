@@ -19,7 +19,7 @@ class AllCategoryItems extends Component {
                                 <div className="row pre-order-all-category-ex-padd">
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/slide-1.jpg')} alt="OrponBD Global Collections"/>
                                                 </div>
@@ -34,7 +34,7 @@ class AllCategoryItems extends Component {
                                     </div>
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/slide-2.jpg')} alt="orponbd global products"/>
                                                 </div>
@@ -49,7 +49,7 @@ class AllCategoryItems extends Component {
                                     </div>
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/slide-3.jpg')} alt="orponbd global products"/>
                                                 </div>
@@ -68,7 +68,7 @@ class AllCategoryItems extends Component {
                                 <div className="row pre-order-all-category-ex-padd">
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/slide-2.jpg')} alt="Orponbd global"/>
                                                 </div>
@@ -76,14 +76,14 @@ class AllCategoryItems extends Component {
                                                     <p>Product details text here...</p>
                                                 </div>
                                                 <div className="pre-order-all-category-snggl-prodcthg-price-ttxt">
-                                                    <h4>750 TK</h4>
+                                                    <h4>755 TK</h4>
                                                 </div>
                                             </Link>
                                         </div>
                                     </div>
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/slide-3.jpg')} alt="Orponbd global collections"/>
                                                 </div>
@@ -91,14 +91,14 @@ class AllCategoryItems extends Component {
                                                     <p>Product details text here...</p>
                                                 </div>
                                                 <div className="pre-order-all-category-snggl-prodcthg-price-ttxt">
-                                                    <h4>750 TK</h4>
+                                                    <h4>780 TK</h4>
                                                 </div>
                                             </Link>
                                         </div>
                                     </div>
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/slide-1.jpg')} alt="orpon bd global items"/>
                                                 </div>
@@ -142,7 +142,7 @@ class AllCategoryItems extends Component {
                                 <div className="row pre-order-all-category-ex-padd">
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/women-fas-cat-8.png')} alt="OrponBD Global Collections"/>
                                                 </div>
@@ -157,7 +157,7 @@ class AllCategoryItems extends Component {
                                     </div>
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/women-fas-cat-7.png')} alt="orponbd global products"/>
                                                 </div>
@@ -172,7 +172,7 @@ class AllCategoryItems extends Component {
                                     </div>
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/women-fas-cat-6.png')} alt="orponbd global products"/>
                                                 </div>
@@ -191,7 +191,7 @@ class AllCategoryItems extends Component {
                                 <div className="row pre-order-all-category-ex-padd">
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/women-fas-cat-5.png')} alt="Orponbd global"/>
                                                 </div>
@@ -206,7 +206,7 @@ class AllCategoryItems extends Component {
                                     </div>
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/women-fas-cat-4.png')} alt="Orponbd global collections"/>
                                                 </div>
@@ -221,7 +221,7 @@ class AllCategoryItems extends Component {
                                     </div>
                                     <div className="col-4">
                                         <div className="pre-order-all-category-snggl-prodct">
-                                            <Link to="/singleproductpage">
+                                            <Link to="/product">
                                                 <div className="pre-order-all-category-snggl-prodct-img">
                                                     <img src={require('../../../assets/women-fas-cat-3.png')} alt="orpon bd global items"/>
                                                 </div>

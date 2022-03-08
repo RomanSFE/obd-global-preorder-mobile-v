@@ -57,7 +57,7 @@ function App() {
 
       <Switch>
         <Route exact path="/" component={PreHomePage}/>
-        <Route path="/singleproductpage" component={SingleProductPage}/>
+        <Route path="/product" component={SingleProductPage}/>
         <Route path="/my-cart" component={MyCart}/>
         <Route path="/all-categories" component={AllCategories}/>
         <Route path="/signup-registration" component={SignupAndRegistration}/>
