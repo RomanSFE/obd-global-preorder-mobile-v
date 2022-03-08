@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
 import './singleproductalltext.css';
+import supermarket from '../../../assets/supermarket.svg'
 
 export default class SingleProductAllText extends Component {
 
@@ -70,7 +71,7 @@ export default class SingleProductAllText extends Component {
                         <div className="col-2">
                             <div className="buy-now-and-add-to-cart-page-mobile-cart-icon-bbtn">
                                <Link to="#">
-                                    <img src={require('../../../assets/supermarket.svg')} alt="orponbd online shop"/>
+                                    <img src={supermarket} alt="orponbd preorder"/>
                                </Link>
                                <p>17</p>
                             </div>

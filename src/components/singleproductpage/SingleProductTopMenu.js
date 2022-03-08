@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
 import './singleproductmenu.css';
+import homem from '../../assets/homem.svg'
+import shareiconnew from '../../assets/shareiconnew.svg'
+import dropmenu from '../../assets/dropmenu.svg'
 
 import classnames from "classnames";
 
@@ -68,20 +71,20 @@ class SingleProductTopMenu extends Component {
                                     <li>
                                         <Link to="/">
                                             <div className="single-product-menu-dot-cm-top-menu-right-icon">
-                                                <img src={require('../../assets/homem.svg')} alt="orponbd global collection"/>
+                                                <img src={homem} alt="orponbd preorder"/>
                                             </div>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link to="/">
                                             <div className="single-product-menu-dot-cm-top-menu-right-icon">
-                                                <img src={require('../../assets/share-icon-new.svg')} alt="orponbd global collection"/>
+                                                <img src={shareiconnew} alt="orponbd preorder share"/>
                                             </div>
                                         </Link>
                                     </li>
                                     <li>
                                         <div className="single-product-menu-dot-cm-top-menu-right-icon-dropdown">
-                                            <img src={require('../../assets/drop-menu.svg')} alt="orponbd global collection"/>
+                                            <img src={dropmenu} alt="orponbd global collection"/>
                                             <DropdownButton id="dropdown-basic-button" title="">
                                                 <Dropdown.Item><Link to="/my-account-main"><span><i class="far fa-user"></i></span> Account</Link></Dropdown.Item>
                                                 <Dropdown.Item><Link to="/wishlist"><span><i class="far fa-heart"></i></span> Wishlist</Link></Dropdown.Item>

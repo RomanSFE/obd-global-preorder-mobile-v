@@ -3,6 +3,7 @@ import {Link} from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import './mycart.css';
+import deletezz from '../../assets/deletezz.svg'
 
 export default class MyCart extends Component {
     constructor(props) {
@@ -44,7 +45,7 @@ export default class MyCart extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-12">
-                            <Link to="/singleproductpage">
+                            <Link to="/product">
                                 <div className="main-category-top-menu-iconn-sec-txt">
                                     <span><i className="fa fa-chevron-left"></i> Order Information</span>
                                 </div>
@@ -123,7 +124,7 @@ export default class MyCart extends Component {
                                             <h4>1250 TK</h4>
 
                                             <div className="my-cartproduct-vvx-delete-iixcn">
-                                                <img src={require('../../assets/delete-zz.svg')} alt="OrponBD Online shop"/>
+                                                <img src={deletezz} alt="OrponBD Online shop"/>
                                             </div>
                                             {/* incress decress */}
                                             <div className="my-cart-dfc-single-products-options-section-quantity-bbox">
@@ -154,7 +155,7 @@ export default class MyCart extends Component {
                                             <h4>1250 TK</h4>
 
                                             <div className="my-cartproduct-vvx-delete-iixcn">
-                                                <img src={require('../../assets/delete-zz.svg')} alt="OrponBD Online shop"/>
+                                                <img src={deletezz} alt="OrponBD Online shop"/>
                                             </div>
                                             {/* incress decress */}
                                             <div className="my-cart-dfc-single-products-options-section-quantity-bbox">
